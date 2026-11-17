@@ -1,0 +1,8 @@
+# Rust build artifacts (matches target/ in every nested cargo project)
+target/
+
+# Compiled rustc output (e.g. `rustc main.rs`)
+/main
+
+# macOS
+.DS_Store
